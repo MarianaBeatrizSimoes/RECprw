@@ -8,6 +8,7 @@ for($i=0;$i<$tamanho;$i++){
         echo $str[$i] = "X";
     
     }
+    
 }
 echo $str;
 ?>
