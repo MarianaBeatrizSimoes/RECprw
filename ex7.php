@@ -1,4 +1,5 @@
 <?php
 $str = "rb.ude.psfi.www";
-echo strrev($str);
+$str = strrev($str);
+echo "<a href='http://$str'>$str</a>";
 ?>
